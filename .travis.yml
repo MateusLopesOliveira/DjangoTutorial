@@ -1,5 +1,5 @@
 language: python
 pythin:
   -"3.7"
-install: pip install -r Django
+install: pip install Django
 script: python manage.py test
